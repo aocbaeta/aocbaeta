@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aocbaeta
 - 👀 I’m interested in programming, advanced physics, and exploring the potential of AI.
-- 🌱 I’m currently learning Flutter and Python, as well as enhancing my skills in Rust.
+- 🌱 I’m currently learning Flutter and Rust, as well as enhancing my skills in Python.
 - 💞️ I’m looking to collaborate on mobile development and data analysis projects.
 - 📫 You can reach me via my profile or email at aocbaeta@gmail.com.
 - ⚡ Fun fact: I’m passionate about applying second quantization techniques in software.
