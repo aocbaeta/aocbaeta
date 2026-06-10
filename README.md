@@ -4,6 +4,10 @@ I'm a systems analyst and developer with a degree in Systems Analysis and Develo
 
 I work at the intersection of software development, scientific computing, AI, and mathematical physics, building tools that connect theoretical concepts with practical applications.
 
+## Current Role
+
+I currently work at the Municipal Health Department in the Intelligence and Planning sector, where I develop data-driven solutions, support planning workflows, and work across front-end and back-end systems.
+
 ## Current Focus
 
 - Artificial Intelligence and applied software development
