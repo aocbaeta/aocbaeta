@@ -1,14 +1,38 @@
-- 👋 Hi, I’m @aocbaeta
-- 👀 I’m interested in programming, advanced physics, and exploring the potential of AI.
-- 🌱 I’m currently learning Flutter and Rust, as well as enhancing my skills in Python.
-- 💞️ I’m looking to collaborate on mobile development and data analysis projects.
-- 📫 You can reach me via my profile or email at aocbaeta@gmail.com.
-- ⚡ Fun fact: I’m passionate about applying second quantization techniques in software.
+# Hi, I'm André Oscar de Carvalho Baeta
 
-- Projects:
-⚡ I developed a program to calculate propagators as part of a scientific initiation project during my undergraduate physics course. The program handles commutators and anticommutators in second quantization through an algebraic commutator expansion, using Kronecker deltas to calculate summations within the propagator framework. Initially developed in Wolfram Mathematica, the project was later "translated" into Python, Rust, and Dart for use in a Flutter app.
+I'm a systems analyst and developer with a degree in Systems Analysis and Development and postgraduate studies in Artificial Intelligence. My academic background also includes extensive training in Physics, with approximately 95% of a Physics degree completed.
 
-<!---
-aocbaeta/aocbaeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work at the intersection of software development, scientific computing, AI, and mathematical physics, building tools that connect theoretical concepts with practical applications.
+
+## Current Focus
+
+- Artificial Intelligence and applied software development
+- Scientific computing and symbolic computation
+- Mobile development with Flutter
+- Backend and performance-oriented programming with Rust
+- Python for automation, data analysis, and computational modeling
+- Mathematical and theoretical physics, with interests in quantum field theory, many-body quantum mechanics, relativity, statistical mechanics, thermodynamics, astrophysics, and computational symbolic methods
+
+## Featured Project
+
+### commute
+
+A computational tool for operator algebra in second quantization.
+
+The project calculates commutators and anticommutators using algebraic expansion and Kronecker deltas to evaluate summations in the propagator framework. It was originally developed in Wolfram Mathematica and later translated into Python, Rust, and Dart for use in a Flutter application.
+
+## Tech Stack
+
+- Python
+- Rust
+- Dart / Flutter
+- Wolfram Mathematica
+- Artificial Intelligence
+- Scientific computing
+- Data analysis
+- Git / GitHub
+
+## Contact
+
+- Email: aocbaeta@gmail.com
+- Location: Formiga-MG, Brazil
