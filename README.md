@@ -2,9 +2,9 @@
 
 I'm a systems analyst and developer with a degree in Systems Analysis and Development, postgraduate training in Data Science and Artificial Intelligence, and an MBA in Performance Indicators and Management.
 
-My background combines software development, artificial intelligence, data analysis, management indicators, scientific computing, and mathematical physics. Before transitioning fully into software development, I completed extensive academic training in Physics, including undergraduate research in condensed matter physics, superconductivity, many-body quantum systems, symbolic computation, and mathematical modeling.
+My academic and professional background began in Physics, where I pursued extensive training in mathematical physics, condensed matter physics, superconductivity, many-body quantum systems, symbolic computation, and mathematical modeling. This foundation later led me to software development, artificial intelligence, data analysis, management indicators, scientific computing, and applied computational modeling.
 
-I work at the intersection of applied software engineering, data-driven decision-making, scientific computing, AI, and theoretical modeling, building tools that connect abstract concepts with practical, real-world applications.
+Today, I work at the intersection of applied software engineering, data-driven decision-making, scientific computing, artificial intelligence, and theoretical modeling, building tools that connect abstract concepts with practical, real-world applications.
 
 ## Current Role
 
@@ -17,8 +17,11 @@ My work involves automation, data processing, dashboards, reporting workflows, p
 * Degree in Systems Analysis and Development
 * Postgraduate degree in Data Science and Artificial Intelligence
 * MBA in Performance Indicators and Management
-* Extensive academic training in Physics
-* Undergraduate research experience in condensed matter physics, superconductivity, many-body quantum theory, Green's functions, and symbolic computation
+* Extensive academic training and undergraduate research experience in Physics
+
+My academic path began with Physics, with strong emphasis on mathematical modeling, theoretical physics, condensed matter physics, superconductivity, many-body quantum theory, Green's functions, second quantization, and symbolic computation.
+
+I later completed a degree in Systems Analysis and Development, consolidating my transition into software engineering, systems development, automation, data analysis, and computational solutions.
 
 My postgraduate studies in Data Science and Artificial Intelligence included artificial intelligence, natural language processing, computer vision, robotics, predictive modeling, Python with Spark, business intelligence, data governance, analytics, and distributed data processing.
 
@@ -26,13 +29,13 @@ My MBA in Performance Indicators and Management strengthened my work with perfor
 
 ## Research Background in Physics
 
-During my academic training in Physics, I worked on research projects related to condensed matter physics, superconductivity, many-body quantum mechanics, and symbolic computation.
+Before fully transitioning into software development, I pursued extensive academic training in Physics and worked on research projects related to condensed matter physics, superconductivity, many-body quantum mechanics, and symbolic computation.
 
 One of my undergraduate research projects investigated the competition between spin-orbit coupling and superconductivity in honeycomb lattices. The work explored superconducting phase diagrams considering intrinsic spin-orbit coupling, chemical potential variation, and superconducting order parameters compatible with honeycomb structures, including conventional s-wave pairing and exotic p + ip pairing.
 
 Another research project focused on the use of equations of motion for Green's functions in interacting many-body systems. The project involved second quantization, commutators, anticommutators, perturbative expansions, BCS theory, and the development of symbolic computation tools to automate algebraic calculations involving quantum operators.
 
-This research background strongly influences my current computational work, especially in scientific computing, symbolic algebra, quantum models, and mathematical physics.
+This research background strongly influences my current computational work, especially in scientific computing, symbolic algebra, quantum models, mathematical physics, and computational approaches to theoretical modeling.
 
 ## Current Focus
 
